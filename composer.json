@@ -1,0 +1,19 @@
+{
+    "name": "ancell/framework",
+    "description": "基于 Swoole 和 Laravel 的开发框架",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "chongyi",
+            "email": "xpz3847878@163.com"
+        }
+    ],
+    "require": {
+        "laravel/framework": "~5.1"
+    },
+    "autoload": {
+        "prs-4": {
+            "Ancell\\Framework\\": "src/"
+        }
+    }
+}

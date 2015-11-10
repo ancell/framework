@@ -12,7 +12,7 @@
         "laravel/framework": "~5.1"
     },
     "autoload": {
-        "prs-4": {
+        "psr-4": {
             "Ancell\\Framework\\": "src/"
         }
     }
